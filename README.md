@@ -1,10 +1,10 @@
-# Hi, I'm Harsh Pandey 👋  
+# Hi, I'm Harsh Pandey 
 
 **Just A Coder, Coding**  
 
 ---
 
-🎓 **Student** | 🧠 **Aspiring Data Scientist & Software Engineer**  
+ **Student** |  **Aspiring Data Scientist & Software Engineer**  
 
 Welcome to my GitHub profile! I’m passionate about exploring the intersection of data science and software engineering.  
 I love building solutions with code, learning new technologies, and sharing knowledge along the way.  
