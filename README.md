@@ -31,7 +31,7 @@ I love building solutions with code, learning new technologies, and sharing know
 
 🔹 [Sonar Rock vs Mine Classification](https://github.com/Harshhhp/Rock-And-Mine-Prediction) – Logistic Regression model to classify sonar signals.  
 🔹 [Diabetes Prediction Model](https://github.com/Harshhhp/Diabetes-Prediction-Model) – ML model to predict diabetes using health parameters.  
-🔹 [Car Website Project](https://github.com/Harshhhp/GearVana) – React + Django based car listing & EMI calculator website.  
+🔹 [Car Website Project](https://github.com/Harshhhp/GearVana) – React + Next-JS based car listing & EMI calculator website.  
 
 ---
 
